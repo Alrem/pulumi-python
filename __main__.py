@@ -4,7 +4,7 @@ import pulumi
 import pulumi_gcp as gcp
 import pulumi.runtime
 
-bucket_name = "nice-etching-pulumi-bucket"
+bucket_name = "nice-etching-pulumi-bucket1"
 
 def get_bucket(bucket_name):
     try:
